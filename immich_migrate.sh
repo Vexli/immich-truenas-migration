@@ -7,7 +7,7 @@
 #   preserving media and database files.
 
 # Change these paths for your environment
-OLD_POOL="/mnt/lake/media/photo"
+OLD_POOL="/mnt/.ix-apps/app_mounts/immich"
 NEW_POOL="/mnt/lake/media/immich"
 
 echo ">>> Creating target directories..."
