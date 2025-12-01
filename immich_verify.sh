@@ -3,7 +3,7 @@
 # Checks file counts and sizes between old and new Immich storage.
 # Author: Community contribution
 
-OLD_POOL="/mnt/lake/media/photo"
+OLD_POOL="/mnt/.ix-apps/app_mounts/immich"
 NEW_POOL="/mnt/lake/media/immich"
 
 check_dir () {
